@@ -79,6 +79,7 @@ Logging and Error Handling
 
 ## Projects
 - [Impressive Python Projects](https://youtu.be/v68woFABJ5U)
+- [Youtube Video Downloader](https://open.substack.com/pub/coderpreneur/p/youtube-video-downloader-using-python?r=1toe9l&utm_campaign=post&utm_medium=web)
 
 ## Django
 
