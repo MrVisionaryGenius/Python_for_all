@@ -1,1 +1,1 @@
-Online Job Portal Project using python, flask and sqlite
+Online Job Portal Project, made with Python, flask, and sqlite
