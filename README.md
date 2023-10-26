@@ -70,9 +70,7 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 
 ## Testing and Debugging 
 
-Unit Testing
-Debugging Techniques
-Logging and Error Handling
+- [Pytest Course](https://youtu.be/cHYq1MRoyI0?si=pzSgbWhJWMUbZmzr)
 
 ## Python Libraries
 
