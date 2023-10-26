@@ -83,7 +83,7 @@ Logging and Error Handling
 ## Projects
 - [Impressive Python Projects](https://youtu.be/v68woFABJ5U)
 - [Youtube Video Downloader](https://open.substack.com/pub/coderpreneur/p/youtube-video-downloader-using-python?r=1toe9l&utm_campaign=post&utm_medium=web)
-- [Online Job Portal using Flask]
+- [Online Job Portal using Flask](https://github.com/MrVisionaryGenius/Python_for_all/tree/main/Python-projects/Online-Job-Portal)
 
 ## Django
 
