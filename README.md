@@ -10,6 +10,7 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 
 - Getting Started
 - Python Articles
+- Python Practice Problems
 - Python Basics
 - Full Python Course
 - Data Structures
@@ -34,6 +35,9 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 
 ## Python Articles
 - [Python has such amazing data science libraries.](https://medium.com/@itsinterestingms/python-has-such-amazing-data-science-libraries-fa7947a1349d)
+
+## Python Practice Problems
+- [Basics of variables and operators]()
 
 ## Python Basics
 
