@@ -32,6 +32,7 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 ## Getting Started
 
 ## Installation of Python
+[Full Python Environment Setup for AI (or other) Apps + Virtual Environments](https://youtu.be/Zn5tmx0ynw8?si=mYtN662X_zTDhcMh)
 
 ## Python Articles
 - [Python has such amazing data science libraries.](https://medium.com/@itsinterestingms/python-has-such-amazing-data-science-libraries-fa7947a1349d)
