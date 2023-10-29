@@ -36,7 +36,8 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 
 ## Python Articles
 - [Python has such amazing data science libraries.](https://medium.com/@itsinterestingms/python-has-such-amazing-data-science-libraries-fa7947a1349d)
-
+- [Simple Weather Forecasting Tool](https://coderpreneur.substack.com/publish/posts/detail/130905917?referrer=%2Fpublish%2Fposts%2Fpublished)
+- [Automation and Python](https://coderpreneur.substack.com/publish/posts/detail/129034910?referrer=%2Fpublish%2Fposts%2Fpublished)
 ## Python Practice Problems
 - [Basics of variables and operators]()
 
@@ -87,6 +88,8 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 - [Impressive Python Projects](https://youtu.be/v68woFABJ5U)
 - [Youtube Video Downloader](https://open.substack.com/pub/coderpreneur/p/youtube-video-downloader-using-python?r=1toe9l&utm_campaign=post&utm_medium=web)
 - [Online Job Portal using Flask](https://github.com/MrVisionaryGenius/Python_for_all/tree/main/Python-projects/Online-Job-Portal)
+- [Simple Weather Forecasting Tool](https://coderpreneur.substack.com/publish/posts/detail/130905917?referrer=%2Fpublish%2Fposts%2Fpublished)
+
 
 ## Django
 
