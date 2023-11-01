@@ -95,6 +95,11 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 
 ## Flask
 
+## Machine Learning
+-[Github Repo for ML](https://github.com/MrVisionaryGenius/ML_for_all)
+
+## Deep Learning
+
 Conclusion
 
 This Python programming resource is designed to provide you with a complete understanding of the language. Follow the table of contents to navigate through different topics and enhance your Python skills. Happy coding!
