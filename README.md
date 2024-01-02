@@ -10,6 +10,7 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 
 - Getting Started
 - Python Articles
+- Python Notes
 - Python Practice Problems
 - Python Basics
 - Full Python Course
@@ -38,6 +39,11 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 - [Python has such amazing data science libraries.](https://medium.com/@itsinterestingms/python-has-such-amazing-data-science-libraries-fa7947a1349d)
 - [Simple Weather Forecasting Tool](https://coderpreneur.substack.com/publish/posts/detail/130905917?referrer=%2Fpublish%2Fposts%2Fpublished)
 - [Automation and Python](https://coderpreneur.substack.com/publish/posts/detail/129034910?referrer=%2Fpublish%2Fposts%2Fpublished)
+
+## Python Notes
+- [Time Series analysis with Python](https://github.com/MrVisionaryGenius/Python_for_all/blob/main/Python_Notes_Cheatsheets/Time%20series%20analysis%20in%20Python.pdf)
+- [Python Interview Questions](https://github.com/MrVisionaryGenius/Python_for_all/blob/main/Python_Notes_Cheatsheets/Top%2050%20python%20Interview%20Questions%20and%20answers%20%20(1).pdf)
+
 ## Python Practice Problems
 - [Basics of variables and operators]()
 
