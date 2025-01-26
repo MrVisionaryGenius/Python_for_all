@@ -106,6 +106,9 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 
 ## Deep Learning
 
+## AI & Python Jobs
+-[Fursah Jobs](https://www.fursahjobs.com/)
+
 Conclusion
 
 This Python programming resource is designed to provide you with a complete understanding of the language. Follow the table of contents to navigate through different topics and enhance your Python skills. Happy coding!
