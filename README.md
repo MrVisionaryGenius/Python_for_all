@@ -46,6 +46,7 @@ This is a comprehensive guide for learning Python programming. Whether you are a
 
 ## Python Practice Problems
 - [Basics of variables and operators]()
+- [Python Problem Set 1](https://github.com/MrVisionaryGenius/Python_for_all/blob/main/Python_Basics_Programs/Aptitude_code.ipynb)
 
 ## Python Basics
 
